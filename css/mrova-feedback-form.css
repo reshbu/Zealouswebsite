@@ -1,0 +1,66 @@
+
+label {
+	display:block; 
+	padding-bottom:5px; 
+	margin-top:20px;
+}
+
+#mrova-feedback{
+	display: hidden;
+	width: 452px;
+	/*position: fixed;*/
+	float:left;
+	border: 1px solid #3cb58c;
+	padding: 8px 20px;
+	background-color: #fff;
+}
+
+
+#mrova-contactform ul {
+	margin: 0;
+	padding: 0;
+	
+}
+#mrova-buddycontactform ul {
+	margin: 0;
+	padding: 0;
+	
+}
+
+#mrova-contactform input, #mrova-contactform textarea{
+width: 400px;
+padding: 5px;
+border: 1px solid #ccc;
+}
+
+#mrova-buddycontactform input, #mrova-contactform textarea{
+width: 400px;
+padding: 5px;
+border: 1px solid #ccc;
+}
+
+#mrova-contactform ul li {
+	list-style:none; 
+	padding-bottom:20px;
+}
+
+#mrova-buddycontactform ul li {
+	list-style:none; 
+	padding-bottom:20px;
+}
+
+#mrova-contactform #mrova-sendbutton {
+	width:60px;
+	background:#db4f4a; color:#326184; 
+	cursor:pointer;
+	padding:5px 10px; 
+	border: none;
+}
+
+#mrova-buddycontactform #mrova-sendbutton {
+	width:60px;
+	background:#db4f4a; color:#326184; 
+	cursor:pointer;
+	padding:5px 10px; 
+	border: none;
+}
